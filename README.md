@@ -1,2 +1,2 @@
 # advanced_logic_tableau
- checks if given set of sentences entails a given conclusion by checking whether branches are open or closed on a two-sided tree
+tableau determines if a given set of sentences entails a conclusion by checking whether branches (created by rules of logical operators and their corresponding truth-values) are open or closed on a two-sided tree
